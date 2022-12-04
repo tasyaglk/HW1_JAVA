@@ -64,4 +64,4 @@ public class UsersTurn {
     int uCheck() {
         return fl;
     }
-}1
+}
